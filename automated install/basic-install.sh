@@ -24,7 +24,7 @@ tmpLog=/tmp/pihole-install.log
 instalLogLoc=/etc/pihole/install.log
 setupVars=/etc/pihole/setupVars.conf
 
-webInterfaceGitUrl="https://https://github.com/freehunter/pihole-logger.git"
+webInterfaceGitUrl="https://github.com/freehunter/pihole-logger.git"
 webInterfaceDir="/var/www/html/admin"
 piholeGitUrl="https://github.com/freehunter/pihole-logger-installer.git"
 piholeFilesDir="/etc/.pihole"
